@@ -1,5 +1,10 @@
-{
-   "name":"diegocosin1@gmail.com", "score":6482,
-   "name":"veirasga@esat-alumni.es", "score":8742,
-   "name":"cosinma@esat-alumni.es", "score":2644
-}
+[{
+		"name": "diegocosin1@gmail.com",
+			"score": 6482
+}, {
+	"name": "veirasga@esat-alumni.es",
+		"score": 8742
+}, {
+	"name": "cosinma@esat-alumni.es",
+		"score": 2644
+}]
